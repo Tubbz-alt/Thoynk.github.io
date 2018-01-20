@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Thoynk Is Collaborative Python ... and C ... and a lot of other things!"
+title:  "Thoynk Is Collaborative AI!"
 date:   2018-01-19 12:41:30 -0600
 categories: Thoynk update
 ---
-This is a trial run of Jekyll for Thoynk ... we're trying Jekyll for a lot of different reasons, maybe because Jekyll offers powerful support for code snippets such as the Towers of Hanoi code from [Peter Hintjens CurveMQ proof of concept gist in C](https://gist.github.com/hintjens/5137685):
+This is a trial run of Jekyll for Thoynk ... we're trying Jekyll for a lot of different reasons ... [way too many developers continue to be fanatically enthusiastic about Jekyll](https://stackshare.io/stackups/hugo-vs-jekyll-vs-pelican) and *arguments freight trains don't end well for the guy who wants to argue* ... [Jekyll plays well with Github Pages](https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3) and with things such as automatically rendering markdown documents, from an RMarkdown Notebook or other sources, [GitHub is doing a lot to support data science workflows](https://resources.github.com/webcasts/Enabling-Data-Science-with-GitHub/) ... and Jekyll has been around, so it does a lot of different little things that are very useful, such powerful support for code snippets in different languages such this gist from [Peter Hintjens CurveMQ proof of concept](https://gist.github.com/hintjens/5137685):
 
 {% highlight c %}
-#=> just an example to show highlighting functionality ...
+#=> Remember, this is JUST an example to show highlighting functionality ...
 //  Proof of concept CurveCP handshake over 0MQ.
 //
 //  Demonstrates a confidential, authenticated connection between
