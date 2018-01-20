@@ -4,7 +4,7 @@ title:  "Thoynk Is Collaborative Python ... and other things!"
 date:   2018-01-19 12:41:30 -0600
 categories: Thoynk update
 ---
-This is a trial run of Jekyll ... for a lot of different reasons, maybe because Jekyll offers powerful support for code snippets such as the Towers of Hanoi code from [Python Course](https://www.python-course.eu/python3_course.php):
+This is a trial run of Jekyll for Thoynk ... we're trying Jekyll for a lot of different reasons, maybe because Jekyll offers powerful support for code snippets such as the Towers of Hanoi code from [Python Course](https://www.python-course.eu/python3_course.php):
 
 {% highlight python %}
 #=> just an example to show highlighting functionality ...
@@ -27,9 +27,9 @@ print source, helper, target
 #=> just an example to show highlighting functionality ...
 {% endhighlight %}
 
-But maybe we can actually add something like [Datacamp Light][datacamp-light] to Jekyll?
+We could do something extremely clever with code ... like add something like [Datacamp Light][datacamp-light] to Jekyll ... and that might be a good exercise, but it would involve getting familiar with [Datacamp Light][datacamp-light] and read the [Jekyll docs][jekyll-docs] a time or two and of course getting familiar with the [Jekyll’s GitHub repo][jekyll-gh] ... to be able to maybe ask some somewhat intelligent questions at [Jekyll Talk][jekyll-talk] or on the issue board at the [Datacamp Light repository][datacamp-light]. So, yes, doing something clever ultimately involves a learning skills to develop an deeper understanding of how things work AND, more importantly, how development communities work.
 
-Will need to read the [Jekyll docs][jekyll-docs] and the [Jekyll’s GitHub repo][jekyll-gh] ... maybe ask some questions at [Jekyll Talk][jekyll-talk].
+Of course, the cleverness really begs a much larger question ... WHY would we do it this way?  The answer is that it's not exactly just mere cleverness -- there's a benefit from talking about and giving the reader a chance to immediately play with the code snippets to illustrate the point we are attempting to convey. The point of all of it is a more collaborative learning experience ... providing the reader with a more immediate, lower friction way to think about the code hopefully more collaborative learning experience.  But is there a better way?  Why would we do it THIS way? What can we improve in this teaching/writing method?
 
 [jekyll-docs]:    https://jekyllrb.com/docs/home
 [jekyll-gh]:      https://github.com/jekyll/jekyll
